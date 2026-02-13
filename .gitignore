@@ -1,0 +1,55 @@
+# AI assistant files
+CLAUDE.md
+.claude/
+
+# IDE files
+.vscode/
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Log files
+*.log
+
+# Node modules
+node_modules/
+frontend/node_modules/
+
+# Build directories
+*/dist/
+*/build/
+
+# Environment files
+.env
+*.env.local
+
+# IDE and editor files
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Python compiled files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pyc
+.Python
+*/.Python
+
+# Database files
+*.mdb
+
+# Local development files
+*.log
+.DS_Store
